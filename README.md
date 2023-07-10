@@ -7,3 +7,5 @@ Snake game made with awt and swing library.
 
 ## Tools
 - `IDE`: IntelliJ IDEA
+
+![snake](https://github.com/kevinsamm/java-snake/assets/65882465/68aa3241-4bed-4809-afb1-a4db09ee620a)
